@@ -1,5 +1,7 @@
 # Learn how to use Javascript with html
 
+## Learning Javascript 1 -3
+
 below image is the result
 
 ![screenshot](./screenshot.png)

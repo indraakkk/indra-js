@@ -1,3 +1,7 @@
+/*
+* This file already covered both level 14 & 15
+*/
+
 // setup DOM (document object model)
 var numberScreen = 'screen';
 var numBtns = document.getElementsByClassName('number');

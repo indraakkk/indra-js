@@ -1,0 +1,36 @@
+.btn {
+    display: inline-block;
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    width: 1em;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #eee;
+    cursor: pointer;
+}
+
+.dummy {
+    border: 1px solid #fff;
+}
+
+.dummy:hover{
+    background-color: transparent;
+}
+
+.pad {
+    position: absolute;
+}
+
+#screen {
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 5px;
+    height: 1em;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    text-align: right;
+}
